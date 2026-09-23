@@ -24,8 +24,7 @@ This folder contains all four required deliverables.
    (Overview, Inventory, Suppliers and delivery, Products and profit,
    Insights, Records), clickable filters and charts, and two
    adjustable-threshold sliders.
-   A live, shareable copy is also published at:
-   https://claude.ai/artifact/BpYsZNxUrvcUsdcivnvVYA
+
 
 4. SHORT SUMMARY OF INSIGHTS
    supply_chain_insights_summary.md
